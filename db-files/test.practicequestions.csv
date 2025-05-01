@@ -1,0 +1,31 @@
+_id,question,topic,company,link
+6757529a601f96df98cd071a,Two Sum,"Array, Hash Table",Teklink,https://leetcode.com/problems/two-sum/description/
+6757552fb3d6e8b07e0aa086,Integer to Roman,"Math, String",Infosys,https://leetcode.com/problems/integer-to-roman/
+6757552fb3d6e8b07e0aa087,Roman to Integer,"Math, String",Infosys,https://leetcode.com/problems/roman-to-integer/
+6757552fb3d6e8b07e0aa07c,Add Two Numbers,"Linked List, Math",Teklink,https://leetcode.com/problems/add-two-numbers/
+6757552fb3d6e8b07e0aa07d,Longest Substring Without Repeating Characters,"Hash Table, String, Sliding Window",Teklink,https://leetcode.com/problems/longest-substring-without-repeating-characters/
+6757552fb3d6e8b07e0aa07e,Median of Two Sorted Arrays,"Array, Binary Search, Divide and Conquer",Teklink,https://leetcode.com/problems/median-of-two-sorted-arrays/
+6757552fb3d6e8b07e0aa08f,Merge Two Sorted Lists,Linked List,Accenture,https://leetcode.com/problems/merge-two-sorted-lists/
+6757552fb3d6e8b07e0aa07f,Regular Expression Matching,"String, Dynamic Programming, Recursion",Teklink,https://leetcode.com/problems/regular-expression-matching/
+6757552fb3d6e8b07e0aa080,Longest Palindromic Substring,"String, Dynamic Programming",Teklink,https://leetcode.com/problems/longest-palindromic-substring/
+6757552fb3d6e8b07e0aa081,ZigZag Conversion,String,Teklink,https://leetcode.com/problems/zigzag-conversion/
+6757552fb3d6e8b07e0aa094,Remove Duplicates from Sorted Array,"Array, Two Pointers",Accenture,https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+6757552fb3d6e8b07e0aa095,Remove Element,"Array, Two Pointers",Accenture,https://leetcode.com/problems/remove-element/
+6757552fb3d6e8b07e0aa082,Reverse Integer,Math,Teklink,https://leetcode.com/problems/reverse-integer/
+6757552fb3d6e8b07e0aa083,String to Integer (atoi),String,Teklink,https://leetcode.com/problems/string-to-integer-atoi/
+6757552fb3d6e8b07e0aa084,Palindrome Number,Math,Teklink,https://leetcode.com/problems/palindrome-number/
+6757552fb3d6e8b07e0aa085,Container With Most Water,"Array, Two Pointers",Teklink,https://leetcode.com/problems/container-with-most-water/
+6757552fb3d6e8b07e0aa088,Longest Common Prefix,String,Infosys,https://leetcode.com/problems/longest-common-prefix/
+6757552fb3d6e8b07e0aa089,3Sum,"Array, Two Pointers",Infosys,https://leetcode.com/problems/3sum/
+6757552fb3d6e8b07e0aa08a,3Sum Closest,"Array, Two Pointers",Infosys,https://leetcode.com/problems/3sum-closest/
+6757552fb3d6e8b07e0aa08b,Letter Combinations of a Phone Number,"String, Backtracking",Infosys,https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+6757552fb3d6e8b07e0aa08c,4Sum,"Array, Hash Table, Two Pointers",Infosys,https://leetcode.com/problems/4sum/
+6757552fb3d6e8b07e0aa08d,Remove Nth Node From End of List,"Linked List, Two Pointers",Accenture,https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+6757552fb3d6e8b07e0aa08e,Valid Parentheses,"String, Stack",Accenture,https://leetcode.com/problems/valid-parentheses/
+6757552fb3d6e8b07e0aa090,Generate Parentheses,"String, Backtracking",Accenture,https://leetcode.com/problems/generate-parentheses/
+6757552fb3d6e8b07e0aa091,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",Accenture,https://leetcode.com/problems/merge-k-sorted-lists/
+6757552fb3d6e8b07e0aa092,Swap Nodes in Pairs,Linked List,Accenture,https://leetcode.com/problems/swap-nodes-in-pairs/
+6757552fb3d6e8b07e0aa093,Reverse Nodes in k-Group,Linked List,Accenture,https://leetcode.com/problems/reverse-nodes-in-k-group/
+6757552fb3d6e8b07e0aa096,Implement strStr(),String,Accenture,https://leetcode.com/problems/implement-strstr/
+6757552fb3d6e8b07e0aa097,Divide Two Integers,Math,Accenture,https://leetcode.com/problems/divide-two-integers/
+6757552fb3d6e8b07e0aa098,Substring with Concatenation of All Words,"Hash Table, Two Pointers, String",Accenture,https://leetcode.com/problems/substring-with-concatenation-of-all-words/
